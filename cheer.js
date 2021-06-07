@@ -1,3 +1,3 @@
-export default function cheer() {
-    console.log('group10');
+export default function cheer(p) {
+    console.log(p);
 };
