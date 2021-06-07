@@ -1,3 +1,3 @@
 export default function future() {
-    console.log('virgo');
+    console.log(`my chinese  sign`);
 };
