@@ -1,3 +1,3 @@
-export default function cheer(count) {
+export default function count() {
     console.log(25);
 };
