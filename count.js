@@ -1,4 +1,3 @@
-petervidaHU-twoparams
-export default function count(parameter) {
-    console.log(`Counting the countless ${parameter}`);
+export default function count(number) {
+    console.log(number);
 };
