@@ -1,3 +1,3 @@
-export default function future() {
-    console.log(`my chinese  sign`);
+export default function future(s, sign) {
+    console.log(s, sign);
 };

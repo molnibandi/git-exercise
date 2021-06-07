@@ -1,3 +1,4 @@
 export default function greet() {
-    console.log('Andras a2');
+    console.log('Greetings');
+    console.log('Greetings for the parameter'+'2nd param');
 };
