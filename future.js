@@ -1,3 +1,4 @@
 export default function future() {
-    console.log('virgo');
+    const starSign = 'virgo';
+    console.log(starSign);
 };

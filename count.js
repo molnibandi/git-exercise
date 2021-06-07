@@ -1,3 +1,3 @@
-export default function count() {
-    console.log(25);
+export default function count(parameter) {
+    console.log(parameter);
 };
