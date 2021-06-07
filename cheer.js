@@ -1,3 +1,3 @@
-export default function cheer() {
-    console.log('JS');
+export default function cheer(parameter) {
+    console.log(`Cheer for the ${parameter}`);
 };
