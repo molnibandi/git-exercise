@@ -1,3 +1,3 @@
 export default function count(parameter) {
-    console.log(parameter);
+    console.log(`Counting the countless ${parameter}`);
 };
